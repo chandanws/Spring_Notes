@@ -1,0 +1,11 @@
+Spring Data JPA is part of the umbrella Spring Data project that makes it easy to easily implement JPA based repositories.
+
+Features:
+
+Sophisticated support to build repositories based on Spring and JPA
+Support for QueryDSL predicates and thus type-safe JPA queries
+Transparent auditing of domain class
+Pagination support, dynamic query execution, ability to integrate custom data access code
+Validation of @Query annotated queries at bootstrap time
+Support for XML based entity mapping
+JavaConfig based repository configuration by introducing @EnableJpaRepositories
