@@ -6,10 +6,19 @@ Spring Data Project
   5) Spring Data Couchbase
   6) Spring Data Redis
   
+Online Tutorial links
+======================
+1. https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-introduction/
+2. 
 
 Spring Data JPA 
 =================================
 This is part of the umbrella Spring Data project that makes it easy to easily implement JPA based repositories.
+
+Objective:
+
+Implementing a data access layer of an application has been cumbersome for quite a while. Too much boilerplate code has to be written to execute simple queries as well as perform pagination, and auditing. Spring Data JPA aims to significantly improve the implementation of data access layers by reducing the effort to the amount that’s actually needed. As a developer you write your repository interfaces, including custom finder methods, and Spring will provide the implementation automatically
+
 Features:
 
 Sophisticated support to build repositories based on Spring and JPA
