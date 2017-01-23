@@ -1,0 +1,15 @@
+1) What is the difference between Spring Boot and the Spring framework?
+
+If Spring is the cake, Spring Boot is the icing.
+
+In short, Spring framework helps you build web applications. It takes care of dependency injection, handles transactions, implements an MVC framework and provides foundation for the other Spring frameworks (including Spring Boot)
+
+While you can do everything in Spring without Spring Boot, Spring Boot helps you get things done faster:
+
+simplifies your Spring dependencies, no more version collisions
+can be run straight from a command line without an application container
+build more with less code - no need for XML, not even web.xml, auto-configuration
+useful tools for running in production, database initialization,  environment specific config files, collecting metrics
+
+
+2) 
