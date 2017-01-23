@@ -35,4 +35,42 @@ Because of the inheritance mentioned above,  JpaRepository will have all the fun
 
 ###### Concept behind this inheritence #######
 
+Basics
+
+The base interface you choose for your repository has two main purposes. First, you allow the Spring Data repository infrastructure to find your interface and trigger the proxy creation so that you inject instances of the interface into clients. The second purpose is to pull in as much functionality as needed into the interface without having to declare extra methods.
+
+The common interfaces
+
+The Spring Data core library ships with two base interfaces that expose a dedicated set of functionalities:
+
+CrudRepository - CRUD methods
+PagingAndSortingRepository - methods for pagination and sorting (extends CrudRepository)
+Store-specific interfaces
+
+The individual store modules (e.g. for JPA or MongoDB) expose store-specific extensions of these base interfaces to allow access to store-specific functionality like flushing or dedicated batching that take some store specifics into account. An example for this is deleteInBatch(…) of JpaRepository which is different from delete(…) as it uses a query to delete the given entities which is more performant but comes with the side effect of not triggering the JPA-defined cascades (as the spec defines it).
+
+We generally recommend not to use these base interfaces as they expose the underlying persistence technology to the clients and thus tighten the coupling between them and the repository. Plus, you get a bit away from the original definition of a repository which is basically "a collection of entities". So if you can, stay with PagingAndSortingRepository.
+
+Custom repository base interfaces
+
+The downside of directly depending on one of the provided base interfaces is two-fold. Both of them might be considered as theoretical but I think they're important to be aware of:
+
+1) Depending on a a Spring Data repository interface couples your repository interface to the library. I don't think this is a particular issue as you'll probably use abstractions like Page or Pageable in your code anyway. Spring Data is not any different from any other general purpose library like commons-lang or Guava. As long as it provides reasonable benefit, it's just fine.
+2) By extending e.g. CrudRepository, you expose a complete set of persistence method at once. This is probably fine in most circumstances as well but you might run into situations where you'd like to gain more fine-grained control over the methods expose, e.g. to create a ReadOnlyRepository that doesn't include the save(…) and delete(…) methods of CrudRepository.
+The solution to both of these downsides is to craft your own base repository interface or even a set of them. In a lot of applications we've seen something like this:
+
+interface ApplicationRepository<T> extends PagingAndSortingRepository<T, Long> { }
+
+interface ReadOnlyRepository<T> extends Repository<T, Long> {
+
+  // Al finder methods go here
+}
+
+The first repository interface is some general purpose base interface that actually only fixes point 1 but also ties the ID type to be Long for consistency. The second interface usually has all the find…(…) methods copied from CrudRepository and PagingAndSortingRepository but does not expose the manipulating ones. Read more on that approach in the reference documentation.
+
+Summary
+
+The repository abstraction allows you to pickt the base repository totally driven by you architectural and functional needs. Use the ones provided out of the box if they suit, craft your own repository base interfaces if necessary. Stay away from the store specific repository interfaces unless unavoidable.
+
+
 
