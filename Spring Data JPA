@@ -1,5 +1,15 @@
-Spring Data JPA is part of the umbrella Spring Data project that makes it easy to easily implement JPA based repositories.
+Spring Data Project
+  1) Spring Data JPA (http://docs.spring.io/spring-data/jpa/docs/1.0.0.M1/reference/html/)
+  2) Spring Data REST
+  3) Spring Data JDBC Extension
+  4) Spring Data MongoDB
+  5) Spring Data Couchbase
+  6) Spring Data Redis
+  
 
+Spring Data JPA 
+=================================
+This is part of the umbrella Spring Data project that makes it easy to easily implement JPA based repositories.
 Features:
 
 Sophisticated support to build repositories based on Spring and JPA
@@ -9,3 +19,20 @@ Pagination support, dynamic query execution, ability to integrate custom data ac
 Validation of @Query annotated queries at bootstrap time
 Support for XML based entity mapping
 JavaConfig based repository configuration by introducing @EnableJpaRepositories
+
+>>>> Difference between CrudRepository and JpaRepository interfaces
+
+Very basic difference is JpaRepository extends PagingAndSortingRepository which in turn extends CrudRepository.
+
+Their main functions are:
+
+>> CrudRepository mainly provides CRUD functions.
+>> PagingAndSortingRepository provide methods to do pagination and sorting records.
+>> JpaRepository provides some JPA related method such as flushing the persistence context and delete record in a batch.
+
+Because of the inheritance mentioned above,  JpaRepository will have all the functions of CrudRepository and PagingAndSortingRepository. So if you don't need the repository to have the functions provided by JpaRepository and PagingAndSortingRepository , use CrudRepository.
+
+
+###### Concept behind this inheritence #######
+
+
