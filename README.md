@@ -20,3 +20,4 @@
 ### Experience developer & architect
 - [10 common pitfalls of exp developer and architect](https://zeroturnaround.com/rebellabs/watch-out-for-these-10-common-pitfalls-of-experienced-java-developers-architects/)
 - [A Tutorial using Java8](http://courses.coreservlets.com/Course-Materials/java.html)
+- [9 Logging Sins in your java application](https://stackify.com/9-logging-sins-java/)
