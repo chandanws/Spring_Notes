@@ -1,6 +1,6 @@
 ### Git
 - [How to write on GitHub](https://help.github.com/categories/writing-on-github/)
--[Standard markdown](https://daringfireball.net/projects/markdown/)
+- [Standard markdown](https://daringfireball.net/projects/markdown/)
 
 ### Spring Boot with Docker
 - [Container Tutorials](http://containertutorials.com/get_started/index.html)
