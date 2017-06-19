@@ -23,7 +23,8 @@
 
 ### Scala
 - [Scala Tutorial: Developing Modern Applications](https://www.javacodegeeks.com/2016/11/scala-tutorial-developing-modern-applications.html)
-- []()
+- [Java to Scala](https://www.gitbook.com/book/inbravo/java-to-scala/details)
+
 ### Experience developer & architect
 - [10 common pitfalls of exp developer and architect](https://zeroturnaround.com/rebellabs/watch-out-for-these-10-common-pitfalls-of-experienced-java-developers-architects/)
 - [A Tutorial using Java8](http://courses.coreservlets.com/Course-Materials/java.html)
@@ -33,3 +34,6 @@
 - [Android App Development by Stanford](http://web.stanford.edu/class/cs193a/videos.shtml)
 - [Android Material Design Tutorial](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD)
 - [Training for Android developers](https://developer.android.com/training/index.html)
+
+### Blogs
+- [Geowarin blog](https://geowarin.github.io/)
