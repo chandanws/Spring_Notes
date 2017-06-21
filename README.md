@@ -6,6 +6,7 @@
 - [Fundamentals of Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 ### Java
+- [Java Magazine](http://www.javamagazine.mozaicreader.com)
 - [Java Video Tutorial](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 - [Understanding how Core Java really works](http://vanillajava.blogspot.co.uk/)
 
