@@ -48,3 +48,10 @@
 
 ### MongoDB 
 - [Java Mongodb tutorial](http://www.mkyong.com/tutorials/java-mongodb-tutorials/)
+
+### AWS Solution Architect - Associate Certification
+- [Clear AWS Certification](https://clearawscertification.wordpress.com/2017/03/08/clear-aws-architect-associate-certification-in-30-days/)
+- [Jayendra's Blog](http://jayendrapatil.com/)
+- [A Cloud Guru](https://acloud.guru/courses)
+- [Can someone share AWS Certified Solutions Architect - Associate dumps?](https://www.quora.com/Can-someone-share-AWS-Certified-Solutions-Architect-Associate-dumps)
+
