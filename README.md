@@ -43,6 +43,7 @@
 - [Android Material Design Tutorial](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD)
 - [Training for Android developers](https://developer.android.com/training/index.html)
 - [Android Development by Vogella](http://www.vogella.com/tutorials/android.html)
+- [Android App Development by thenewboston](https://thenewboston.com/videos.php?cat=278)
 
 ### Blogs
 - [Geowarin blog](https://geowarin.github.io/)
