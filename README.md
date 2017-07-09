@@ -47,6 +47,7 @@
 - [Build dynamic user interfaces with Android and XML - IBM](https://www.ibm.com/developerworks/xml/tutorials/x-andddyntut/)
 - [Introduction to Android development - IBM](https://www.ibm.com/developerworks/opensource/library/os-android-devel/)
 - [Google Android Tutorial - dZone](https://dzone.com/articles/google-android-tutorial)
+- [Beginning Android Development](http://valokafor.com/category/beginning-android-development/)
 
 ### Blogs
 - [Geowarin blog](https://geowarin.github.io/)
