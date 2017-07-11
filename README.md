@@ -48,6 +48,10 @@
 - [Introduction to Android development - IBM](https://www.ibm.com/developerworks/opensource/library/os-android-devel/)
 - [Google Android Tutorial - dZone](https://dzone.com/articles/google-android-tutorial)
 - [Beginning Android Development](http://valokafor.com/category/beginning-android-development/)
+- [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
+- [Source code to omnibus edition of _The Busy Coder's Guide to Android Development](https://github.com/commonsguy/cw-omnibus)
+- [Sample Android Apps](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
+- [CodePath Android Cliffnotes](http://guides.codepath.com/android)
 
 ### Blogs
 - [Geowarin blog](https://geowarin.github.io/)
