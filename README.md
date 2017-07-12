@@ -10,6 +10,17 @@
 - [Java Video Tutorial](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 - [Understanding how Core Java really works](http://vanillajava.blogspot.co.uk/)
 
+### Kotlin
+- [From java to kotlin](https://github.com/chandanws/from-java-to-kotlin)
+
+## Important things to know in Kotlin
+* [Learn Kotlin - lateinit vs lazy](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy)
+* [Learn Kotlin - apply vs with](https://mindorks.com/blog/learn-kotlin-apply-vs-with)
+* [Learn Kotlin - Data Class](https://mindorks.com/blog/learn-kotlin-data-class)
+* [Learn Kotlin - Destructuring Declarations](https://mindorks.com/blog/learn-kotlin-destructuring-declarations)
+* [Learn Kotlin - Extension Functions](https://mindorks.com/blog/learn-kotlin-extension-functions)
+* [Learn Kotlin - Sealed Classes](https://mindorks.com/blog/learn-kotlin-sealed-classes)
+
 ### Spring Boot with Docker
 - [Container Tutorials](http://containertutorials.com/get_started/index.html)
 - [Spring Boot with Docker](https://spring.io/guides/gs/spring-boot-docker/)
