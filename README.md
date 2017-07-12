@@ -13,7 +13,7 @@
 ### Kotlin
 - [From java to kotlin](https://github.com/chandanws/from-java-to-kotlin)
 
-## Important things to know in Kotlin
+#### Important things to know in Kotlin
 * [Learn Kotlin - lateinit vs lazy](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy)
 * [Learn Kotlin - apply vs with](https://mindorks.com/blog/learn-kotlin-apply-vs-with)
 * [Learn Kotlin - Data Class](https://mindorks.com/blog/learn-kotlin-data-class)
