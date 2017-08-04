@@ -1,3 +1,4 @@
+
 ### Git
 - [How to write on GitHub](https://help.github.com/categories/writing-on-github/)
 - [Standard markdown](https://daringfireball.net/projects/markdown/)
@@ -9,6 +10,7 @@
 - [Java Magazine](http://www.javamagazine.mozaicreader.com)
 - [Java Video Tutorial](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 - [Understanding how Core Java really works](http://vanillajava.blogspot.co.uk/)
+- [Basic Java](https://www.edureka.co/blog/interview-questions/java-interview-questions/?utm_source=blog&utm_medium=left-menu&utm_campaign=what-is-java)
 
 ### Kotlin
 - [From java to kotlin](https://github.com/chandanws/from-java-to-kotlin)
@@ -20,6 +22,9 @@
 * [Learn Kotlin - Destructuring Declarations](https://mindorks.com/blog/learn-kotlin-destructuring-declarations)
 * [Learn Kotlin - Extension Functions](https://mindorks.com/blog/learn-kotlin-extension-functions)
 * [Learn Kotlin - Sealed Classes](https://mindorks.com/blog/learn-kotlin-sealed-classes)
+
+### Spring Framework
+- [How do I learn Spring framework](https://www.quora.com/How-do-I-learn-Spring-Framework)
 
 ### Spring Boot with Docker
 - [Container Tutorials](http://containertutorials.com/get_started/index.html)
