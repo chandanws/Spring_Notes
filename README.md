@@ -72,7 +72,7 @@
 ### Blogs
 - [Geowarin blog](https://geowarin.github.io/)
 - [AgileDeveloper](http://www.agiledeveloper.com/downloads.html)
-
+- [Tutorial](https://www.petrikainulainen.net/tutorials/)
 ### MongoDB 
 - [Java Mongodb tutorial](http://www.mkyong.com/tutorials/java-mongodb-tutorials/)
 
