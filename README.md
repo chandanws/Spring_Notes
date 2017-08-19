@@ -14,6 +14,7 @@
 
 ### Kotlin
 - [From java to kotlin](https://github.com/chandanws/from-java-to-kotlin)
+- [Practical Tips to migrate your Android App to Kotlin](https://medium.com/fueled-android/practical-tips-to-migrate-your-android-app-to-kotlin-4d331e5256dc)
 
 #### Important things to know in Kotlin
 * [Learn Kotlin - lateinit vs lazy](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy)
