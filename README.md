@@ -69,6 +69,7 @@
 - [Source code to omnibus edition of _The Busy Coder's Guide to Android Development](https://github.com/commonsguy/cw-omnibus)
 - [Sample Android Apps](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
 - [CodePath Android Cliffnotes](http://guides.codepath.com/android)
+- [Android Tutorial - Wideskill](http://www.wideskills.com/android-programming)
 
 ### Blogs
 - [Geowarin blog](https://geowarin.github.io/)
