@@ -70,6 +70,8 @@
 - [Sample Android Apps](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
 - [CodePath Android Cliffnotes](http://guides.codepath.com/android)
 - [Android Tutorial - Wideskill](http://www.wideskills.com/android-programming)
+- [Android Tutorial Hub blog](http://www.androidtutorialshub.com/)
+- [Topal android blog](https://www.toptal.com/developers/blog/tags/android)
 
 ### Blogs
 - [Geowarin blog](https://geowarin.github.io/)
