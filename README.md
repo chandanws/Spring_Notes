@@ -72,6 +72,9 @@
 - [Android Tutorial - Wideskill](http://www.wideskills.com/android-programming)
 - [Android Tutorial Hub blog](http://www.androidtutorialshub.com/)
 - [Topal android blog](https://www.toptal.com/developers/blog/tags/android)
+- [Android free source code, tutorials](https://www.sourcecodester.com/android)
+- [Android examples](https://androidexample.com/All-Examples/index.php?view=examples)
+
 
 ### Blogs
 - [Geowarin blog](https://geowarin.github.io/)
