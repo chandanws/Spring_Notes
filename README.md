@@ -74,6 +74,7 @@
 - [Topal android blog](https://www.toptal.com/developers/blog/tags/android)
 - [Android free source code, tutorials](https://www.sourcecodester.com/android)
 - [Android examples](https://androidexample.com/All-Examples/index.php?view=examples)
+- [Android Sample repositories](https://github.com/delaroy?tab=repositories)
 
 
 ### Blogs
