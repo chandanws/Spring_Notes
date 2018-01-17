@@ -1,5 +1,5 @@
 ## All Spring Boot related links
--[Pure Smile](http://www.ityouknow.com/)
+-[Pure Smile blog](http://www.ityouknow.com/)
 
 ### Spring boot
 
