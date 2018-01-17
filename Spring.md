@@ -1,5 +1,7 @@
 ## All Spring Boot related links
 - [Pure Smile blog](http://www.ityouknow.com/)
+- [JavaInUse blog](http://www.javainuse.com/home)
+
 
 ### Spring boot
 
