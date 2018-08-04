@@ -76,6 +76,8 @@
 - [Android examples](https://androidexample.com/All-Examples/index.php?view=examples)
 - [Android Sample repositories](https://github.com/delaroy?tab=repositories)
 
+### Angular2 and Web development
+- [JasonWatmore Blog](http://jasonwatmore.com/)
 
 ### Blogs
 - [Geowarin blog](https://geowarin.github.io/)
