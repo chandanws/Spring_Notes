@@ -97,6 +97,14 @@
 - [Amazon AWS Tutorials](https://comtechies.com/category/amazon-aws-tutorials)
 - [How to prepare AWS Certification](https://comtechies.com/2014/02/how-to-prepare-for-aws-certification.html)
 
+### Useful Medium Posts
+- [JavaScript Modules: Beginners Guide](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
+- [Learn the fundamentals of functional programming](https://medium.freecodecamp.org/learning-the-fundamentals-of-functional-programming-425c9fd901c6)
+- [Preethi Kasireddy](https://medium.freecodecamp.org/@preethikasireddy)
+-[Beau Carnes](https://medium.freecodecamp.org/@beaucarnes)
+-[How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
+
+
 
 
 - [repo](https://github.com/wangjiegulu)
